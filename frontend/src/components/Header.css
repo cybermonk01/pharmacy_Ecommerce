@@ -1,0 +1,31 @@
+.custom-background {
+  /* background-color: rgb(40, 40, 43) !important; */
+  box-shadow: 5px 10px 10px #0e95a361;
+  background-color: #000000;
+  background-image: linear-gradient(to bottom right, #ccffff 20%, #3399ff 100%);
+}
+
+.customLink {
+  color: rgb(218, 17, 17);
+}
+/* visited link grey */
+.customLink a:visited {
+  color: #777;
+}
+/* mouse over link blue */
+.customLink a:hover {
+  color: #0cf;
+}
+/* selected link blue */
+.customLink a:active {
+  color: #0cf;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(9 126 130);
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: rgb(202 37 18);
+}

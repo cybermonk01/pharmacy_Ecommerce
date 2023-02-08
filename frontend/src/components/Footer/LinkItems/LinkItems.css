@@ -1,0 +1,12 @@
+.link-title{
+    text-transform: uppercase;
+    font-weight: 500; 
+}
+
+ul{
+    list-style: none;
+}
+li{
+   line-height: 32px;
+   font-size: 14px;
+}
